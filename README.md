@@ -5,7 +5,9 @@ This project analyzes FBI hate crime data to identify patterns, clustering poten
 1. Project Goals
 2. Data
 3. Requirements
-4. Jupyter Notebook
+4. Project structure
+5. How to run
+6. Notes
 
 # Project Goals
 - Explore patterns in hate crime incidents across US states
